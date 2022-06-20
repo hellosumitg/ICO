@@ -198,6 +198,6 @@ We will now deploy your dApp, so that everyone can see your website and you can 
 - Click `Deploy`
 - Now you can see your deployed website by going to your dashboard, selecting your project, and copying the URL from there!
 
-Check the result here [ICO]()
+Check the result here [ICO](https://ico-sumitdevtech.vercel.app/)
 
 Special thanks to team@LearnWeb3DAO
